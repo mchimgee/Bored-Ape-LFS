@@ -1,3 +1,4 @@
 *.pack filter=lfs diff=lfs merge=lfs -text
 *.map filter=lfs diff=lfs merge=lfs -text
 *.d filter=lfs diff=lfs merge=lfs -text
+C:/Users/creativerrr/bored-ape-minting-dapp/.next filter=lfs diff=lfs merge=lfs -text
