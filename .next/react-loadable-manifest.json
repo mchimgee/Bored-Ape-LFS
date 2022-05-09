@@ -1,0 +1,222 @@
+{
+  "..\\node_modules\\@web3-onboard\\coinbase\\dist\\index.js -> ./icon.js": {
+    "id": "..\\node_modules\\@web3-onboard\\coinbase\\dist\\index.js -> ./icon.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_coinbase_dist_icon_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\coinbase\\dist\\index.js -> @coinbase/wallet-sdk": {
+    "id": "..\\node_modules\\@web3-onboard\\coinbase\\dist\\index.js -> @coinbase/wallet-sdk",
+    "files": [
+      "static/chunks/node_modules_coinbase_wallet-sdk_dist_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\common\\dist\\index.js -> @ethereumjs/common": {
+    "id": "..\\node_modules\\@web3-onboard\\common\\dist\\index.js -> @ethereumjs/common",
+    "files": []
+  },
+  "..\\node_modules\\@web3-onboard\\fortmatic\\dist\\index.js -> ./icon.js": {
+    "id": "..\\node_modules\\@web3-onboard\\fortmatic\\dist\\index.js -> ./icon.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_fortmatic_dist_icon_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\fortmatic\\dist\\index.js -> @web3-onboard/common": {
+    "id": "..\\node_modules\\@web3-onboard\\fortmatic\\dist\\index.js -> @web3-onboard/common",
+    "files": []
+  },
+  "..\\node_modules\\@web3-onboard\\fortmatic\\dist\\index.js -> fortmatic": {
+    "id": "..\\node_modules\\@web3-onboard\\fortmatic\\dist\\index.js -> fortmatic",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_fortmatic_node_modules_fortmatic_dist_cjs_fortmatic_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/alphawallet.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/alphawallet.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_alphawallet_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/atoken.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/atoken.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_atoken_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/binance.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/binance.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_binance_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/bitpie.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/bitpie.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_bitpie_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/blockwallet.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/blockwallet.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_blockwallet_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/brave.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/brave.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_brave_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/coinbase.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/coinbase.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_coinbase_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/dcent.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/dcent.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_dcent_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/detected.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/detected.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_detected_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/frame.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/frame.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_frame_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/huobiwallet.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/huobiwallet.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_huobiwallet_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/hyperpay.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/hyperpay.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_hyperpay_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/imtoken.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/imtoken.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_imtoken_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/liquality.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/liquality.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_liquality_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/meetone.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/meetone.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_meetone_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/metamask.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/metamask.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_metamask_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/mykey.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/mykey.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_mykey_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/oneInch.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/oneInch.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_oneInch_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/opera.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/opera.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_opera_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/ownbit.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/ownbit.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_ownbit_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/status.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/status.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_status_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/tallywallet.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/tallywallet.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_tallywallet_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/tokenary.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/tokenary.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_tokenary_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/tokenpocket.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/tokenpocket.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_tokenpocket_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/tp.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/tp.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_tp_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/trust.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/trust.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_trust_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/xdefi.js": {
+    "id": "..\\node_modules\\@web3-onboard\\injected-wallets\\dist\\wallets.js -> ./icons/xdefi.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_injected-wallets_dist_icons_xdefi_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\walletconnect\\dist\\index.js -> ./icon.js": {
+    "id": "..\\node_modules\\@web3-onboard\\walletconnect\\dist\\index.js -> ./icon.js",
+    "files": [
+      "static/chunks/node_modules_web3-onboard_walletconnect_dist_icon_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\walletconnect\\dist\\index.js -> @walletconnect/client": {
+    "id": "..\\node_modules\\@web3-onboard\\walletconnect\\dist\\index.js -> @walletconnect/client",
+    "files": [
+      "static/chunks/node_modules_walletconnect_client_dist_esm_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\walletconnect\\dist\\index.js -> @walletconnect/qrcode-modal": {
+    "id": "..\\node_modules\\@web3-onboard\\walletconnect\\dist\\index.js -> @walletconnect/qrcode-modal",
+    "files": [
+      "static/chunks/node_modules_walletconnect_qrcode-modal_dist_cjs_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3-onboard\\walletconnect\\dist\\index.js -> rxjs": {
+    "id": "..\\node_modules\\@web3-onboard\\walletconnect\\dist\\index.js -> rxjs",
+    "files": []
+  },
+  "..\\node_modules\\@web3-onboard\\walletconnect\\dist\\index.js -> rxjs/operators": {
+    "id": "..\\node_modules\\@web3-onboard\\walletconnect\\dist\\index.js -> rxjs/operators",
+    "files": []
+  }
+}
