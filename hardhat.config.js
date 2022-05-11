@@ -1,5 +1,7 @@
 require('dotenv').config()
-require('@nomiclabs/hardhat-waffle')
+require("@nomiclabs/hardhat-waffle");
+
+
 
 // You need to export an object to set up your config
 // Go to https://hardhat.org/config/ to learn more
@@ -7,7 +9,7 @@ require('@nomiclabs/hardhat-waffle')
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
-module.exports = {
+ module.exports = {
   solidity: {
     version: '0.8.9',
     settings: {

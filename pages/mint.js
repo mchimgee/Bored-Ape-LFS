@@ -1,17 +1,18 @@
 
 import {useState, useEffect } from 'react'
-import { initOnboard } from "../utils/onboard"
+import { initOnboard } from '../utils/onboard'
 import { useConnectWallet, useSetChain, useWallets } from '@web3-onboard/react'
 import { config } from '../dapp.config'
 import { 
-    getTotalMinted, 
-    getMaxSupply, 
-    isPausedState, 
-    isPublicSaleState, 
-    isPreSaleState,
-    presaleMint,
-    publicMint
+  getTotalMinted, 
+  getMaxSupply, 
+  isPausedState, 
+  isPublicSaleState, 
+  isPreSaleState,
+  presaleMint,
+  publicMint
 } from '../utils/interact'
+
 
 export default function Mint() {
     const [{ wallet, connecting }, connect, disconnect] = useConnectWallet()

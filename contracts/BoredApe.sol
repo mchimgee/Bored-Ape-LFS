@@ -43,15 +43,15 @@ contract BoredApe is
 
     Counters.Counter private _tokenIds;
 
-    uint256[] private _teamShares = [25, 35, 40]; // 3 PEOPLE IN THE TEAM
+    uint256[] private _teamShares = [40, 35, 25]; // 3 PEOPLE IN THE TEAM
     address[] private _team = [
         0x0F46C30f68fa740f4341328580C3fA48e6942498, // Admin Account gets 25% of the total revenue
-        0x82de9CE4a49fFeC4C41Cf733126F618eD83a879C, // Test Account gets 35% of the total revenue
-        0x8a7aC9834e2D4487Da22Dc130C97Ee8fBDc85568 // VIP Account gets 40% of the total revenue
+        0x7cDb1A6F3339Ec0916e58CCC58281e0A090Cf3b2, // Test Account gets 35% of the total revenue
+        0x0492989A1Fd61A9FbF5Cdffa3c34C26B0a020D42 // VIP Account gets 40% of the total revenue
     ];
 
     constructor(string memory uri, bytes32 merkleroot, address _proxyRegistryAddress)
-        ERC721("BoredApe", "APE")
+        ERC721("Boredape", "APE")
         PaymentSplitter(_team, _teamShares) // Split the payment based on the teamshares percentages
         ReentrancyGuard() // A modifier that can prevent reentrancy during certain functions
     {

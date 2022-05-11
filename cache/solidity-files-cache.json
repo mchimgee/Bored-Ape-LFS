@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\creativerrr\\bored-ape-minting-dapp\\contracts\\BoredApe.sol": {
-      "lastModificationDate": 1651406122257,
-      "contentHash": "3c21e18adade3421ed1cd25930ff78a2",
-      "sourceName": "contracts/BoredApe.sol",
+    "C:\\Users\\creativerrr\\bored-ape-minting-dapp\\contracts\\Boredape.sol": {
+      "lastModificationDate": 1652244146077,
+      "contentHash": "38ee2f0613392a56b83e5aaccd089864",
+      "sourceName": "contracts/Boredape.sol",
       "solcConfig": {
         "version": "0.8.9",
         "settings": {
